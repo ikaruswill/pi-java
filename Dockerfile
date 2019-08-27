@@ -1,7 +1,8 @@
 # AlpineLinux with a glibc-2.29-r0 and Oracle Java 8
 FROM alpine:3.8
 
-MAINTAINER Anastas Dancha <anapsix@random.io>
+MAINTAINER Anastas Dancha <ikaruswill@github.com>
+# Thanks to Anastas Dancha <anapsix@random.io> for writing the base image
 # thanks to Vladimir Krivosheev <develar@gmail.com> aka @develar for smaller image
 # and Victor Palma <palma.victor@gmail.com> aka @devx for pointing it out
 
